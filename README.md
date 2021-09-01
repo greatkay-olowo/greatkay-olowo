@@ -4,7 +4,7 @@ Hi I’m Kayode, a Software Engineer at [autochek](https://www.autochek.africa)
 
 I have 10 years experince in financial account, lending, fintech and software engineering.
 
-I love working with React, Node, Javascript, and Python. 
+I love working with HTML, CSS, React, Node, Javascript, MongoDB and PostgresQL. 
 
 How to reach me: [LinkedIn](https://www.linkedin.com/in/alao-e-kayode/) || oluwakayode.alao@gmail.com
 
