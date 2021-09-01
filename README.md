@@ -17,9 +17,11 @@ I love working with React, Node, Javascript, and Python.
 
 ### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greatkay-olowo&layout=compact&langs_count=10)](https://github.com/greatkay-olowo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greatkay-olowo&layout=compact&langs_count=10)](https://github.com/greatkay-olowo&count_private=trueshow_icons=true)
 
 
+![Kayode's GitHub stats](https://github-readme-stats.vercel.app/api?username=greatkay-olowo&count_private=trueshow_icons=true)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=greatkay-olowo&repo=greatkay-olowo)](https://github.com/greatkay-olowo/greatkay-olowo)
 
 
