@@ -1,6 +1,6 @@
 ### About Me
 
-Hi I’m Kayode, a Software Engineer at [autochek](https://www.autochek.africa)
+Hi I’m Kayode, a Software Engineer at [Blackbox Africa](https://www.blackbox.africa)
 
 I have 10 years experince in financial account, lending, fintech and software engineering.
 
